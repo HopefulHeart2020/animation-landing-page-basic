@@ -1,34 +1,18 @@
-# GreenSock (GSAP) in React
+<div align="left">
+  <a href="https://twitter.com/TadashiAmano">
+    <img
+      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/tadashi-amano/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://app.daily.dev/Shinobi8894" target="_blank"><img src="https://api.daily.dev/devcards/cd5aaacc9d37450283741dcb3308ca57.png?r=qhg" width="256" align="right" alt="Tadashi Amano's Dev Card"/></a>
+</div>
 
-A concept to show how to use [GSAP](https://greensock.com/) in a [React](https://reactjs.org/) project.
-
-![Project preview](https://www.giuliamalaroda.com/wp-content/uploads/2021/09/screencapture-localhost-3000-fatturazioni-crea-fatturazione-2021-09-23-12_07_38.png)
-
-## 1 - Getting Started
-### ⚙️ Development mode
-`yarn start` runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### 🔮 Test the app
-`yarn test` launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### 🔨 Build 
-`yarn build` builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-## 2 - Credits
-### 📷 Images
-- Photo by [Esteban Amaro](https://unsplash.com/@estebanamaro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/black-and-white?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-- Photo by [Chris Herath](https://unsplash.com/@cherath14?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/black-and-white?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-### 💡 Layout inspiration
-- [Rafał Staromłyński](https://dribbble.com/shots/12909272-Pixa) on [Dribbble](https://dribbble.com/)
-  
-  
+# Shinobi Letter Animation
+Shinobi Letter Animation using GSAP. You can use it on your project. Let's grow together with Shinobi !
