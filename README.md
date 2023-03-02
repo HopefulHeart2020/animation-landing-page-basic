@@ -15,4 +15,4 @@
 </div>
 
 # Shinobi Letter Animation
-Shinobi Letter Animation using GSAP. You can use it on your project. Let's grow together with Shinobi !
+Animation Landing Page using React. You can use it on your project. Let's grow together with Shinobi !
